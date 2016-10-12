@@ -32,7 +32,7 @@ Alberto Cols
 
 ## PUT
 
-> *****/users/{nick}/sport body=portName***
+> *****/users/{nick}/sport body=sportName***
  
  Se añade un deporte a un usuario
  Se pueden añadir varios deportes
